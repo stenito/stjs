@@ -1,6 +1,6 @@
 // functions for random numbers
 
-const getRandom = () => Math.random();
+getRandom = () => Math.random();
 
 const getRandomInt = (max) => Math.floor(Math.random() * max);
 
