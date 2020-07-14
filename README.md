@@ -1,2 +1,2 @@
-# stjs
-common used js functions
+# stlib
+common used code
